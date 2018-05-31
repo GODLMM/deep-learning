@@ -13,7 +13,7 @@ image_size=28
 channel=1
 outputs_units=10
 outputs_dims=16
-use_true=True#是否用真是标签重构，否则用预测标签
+use_true=True#是否用真的标签重构，否则用预测标签
 alpha=0.0005#重构损失的权重，有点像一个正则化项，防止过拟合
 
 #读取mnist数据
