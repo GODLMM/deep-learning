@@ -1,6 +1,7 @@
 """
 coder：GODMing
 mail：1415756961@qq.com
+paper:Dynamic Routing Between Capsule
 """
 
 
